@@ -321,7 +321,7 @@ The attacker used `chroot` because Docker alone would keep the process in the co
 
 **Answer question 9:** `docker run --rm -it -v /:/host ubuntu chroot /host`
 
-<img width="1911" height="755" alt="jetbrains 14" src="https://github.com/user-attachments/assets/aec2ef2f-b98c-4e2b-a653-3ff38cc677dd" />
+<img width="962" height="590" alt="jetbrains 15" src="https://github.com/user-attachments/assets/6a86dac0-f3e1-49ef-a229-ecd2a512be40" />
 
 ## 3. Lab Conclusion
 
