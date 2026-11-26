@@ -1,0 +1,43 @@
+JetBrains – Network Forensics
+
+Platform: CyberDefenders  
+Category: Network Forensics  
+Difficulty: Easy  
+Primary Tool: Wireshark  
+Status: In Progress
+
+1. Overview
+
+This investigation focuses on analyzing network traffic associated with a compromised JetBrains TeamCity server.
+
+The objective is to examine the provided network evidence, identify suspicious activity, reconstruct the attack sequence, and answer the challenge questions.
+
+2. Objectives
+
+- Analyze the provided PCAP file.
+- Identify suspicious network communications.
+- Investigate HTTP requests and responses.
+- Identify potential exploitation activity.
+- Reconstruct the attack timeline.
+- Extract relevant indicators of compromise.
+- Document findings and conclusions.
+
+3. Tools
+
+- Wireshark
+
+4. Investigation
+
+Investigation details will be documented as the analysis progresses.
+
+5. Findings
+
+Pending investigation.
+
+6. Conclusion
+
+Pending investigation.
+
+---
+
+Educational purpose: This documentation represents an independent learning exercise using a cybersecurity training environment.
